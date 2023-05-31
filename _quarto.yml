@@ -1,0 +1,37 @@
+project:
+  title: "Slides"
+
+author: 
+  - name: "佐久間 智広"
+    affiliation: "神戸大学大学院経営学研究科"
+    email: "sakuma@port.kobe-u.ac.jp"
+date: 2023/04/11
+date-format: YYYY/MM/DD
+
+subtitle: "2023年度　管理会計"
+format:
+  revealjs:
+    width: 1280
+    height: 1024
+    slide-number: true
+    preview-links: auto
+    logo: kobe.png
+    css: styles.css
+    footer: "2023管理会計"
+    smaller: false
+    scrollable: true
+    theme: [solarized,format_slide.scss]
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    embed-resources: false
+    chalkboard: true
+    number-sections: true
+    number-depth: 2
+    toc: true
+    toc-depth: 1
+    navigation-mode: vertical
+    pdf-separate-fragments: true
+
+editor: visual
+bibliography: references.bib
+csl: https://www.zotero.org/styles/the-accounting-review

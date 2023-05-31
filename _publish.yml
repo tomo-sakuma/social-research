@@ -1,0 +1,4 @@
+- source: Slides.qmd
+  quarto-pub:
+    - id: 4087e8a0-c8bf-449e-b261-7f2173612495
+      url: 'https://quartopub.com/sites/tomo-sakuma/slides'
