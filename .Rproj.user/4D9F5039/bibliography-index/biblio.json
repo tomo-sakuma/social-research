@@ -1,0 +1,325 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/S1751-3243(06)01001-7",
+            "author": [
+                {
+                    "family": "Hesford",
+                    "given": "James W."
+                },
+                {
+                    "family": "Lee",
+                    "given": "S. H (S )"
+                },
+                {
+                    "dropping-particle": "a.",
+                    "family": "Van der Stede",
+                    "given": "Wim"
+                },
+                {
+                    "family": "Young",
+                    "given": "S. Mark"
+                }
+            ],
+            "container-title": "Handbooks of Management Accounting Research",
+            "id": "hesford2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "note": "ISBN: 9780080445649",
+            "page": "326",
+            "title": "Management accounting: A bibliographic study",
+            "title-short": "Management accounting",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Johnson",
+                    "given": "H. Thomas"
+                },
+                {
+                    "family": "Kaplan",
+                    "given": "Robert S."
+                },
+                {
+                    "family": "鳥居",
+                    "given": "宏史"
+                }
+            ],
+            "id": "johnson1992",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "note": "tex.key: 管理会計  歴史 , 管理会計  歴史",
+            "publisher": "白桃書房",
+            "publisher-place": "東京",
+            "title": "レレバンス・ロスト : 管理会計の盛衰",
+            "title-short": "レレバンス・ロスト ",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Johnson",
+                    "given": "H. Thomas"
+                },
+                {
+                    "family": "Kaplan",
+                    "given": "Robert S"
+                }
+            ],
+            "id": "johnson1987a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "note": "tex.key: Managerial accounting  History , Managerial accounting  United States  History",
+            "publisher": "Harvard Business School Press",
+            "publisher-place": "Boston, Mass.",
+            "title": "Relevance lost : The rise and fall of management accounting",
+            "title-short": "Relevance lost ",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Merchant",
+                    "given": "Kenneth A"
+                },
+                {
+                    "family": "Van der Stede",
+                    "given": "Wim A"
+                }
+            ],
+            "edition": "Fourth",
+            "id": "merchant2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "publisher": "Pearson",
+            "publisher-place": "New York",
+            "title": "Management control systems: Performance measurement, evaluation and incentives",
+            "title-short": "Management control systems",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Datar",
+                    "given": "Srikant Madhav"
+                },
+                {
+                    "family": "Rajan",
+                    "given": "Madhav V."
+                },
+                {
+                    "family": "Horngren",
+                    "given": "Charles T."
+                }
+            ],
+            "edition": "17th ed., global ed",
+            "id": "datar2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "note": "tex.key: Cost accounting",
+            "publisher": "Pearson",
+            "publisher-place": "Essex",
+            "title": "Horngren’s cost accounting : A managerial emphasis",
+            "title-short": "Horngren’s cost accounting ",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/02724980244000675",
+            "URL": "http://dx.doi.org/10.1080/02724980244000675",
+            "author": [
+                {
+                    "family": "Buehner",
+                    "given": "Marc J"
+                },
+                {
+                    "family": "May",
+                    "given": "Jon"
+                }
+            ],
+            "container-title": "The Quarterly Journal of Experimental Psychology Section A",
+            "id": "buehner2003",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        7
+                    ]
+                ]
+            },
+            "note": "ISBN: 0272-4987 PMID: 12850993",
+            "page": "865890",
+            "title": "Rethinking temporal contiguity and the judgement of causality: Effects of prior knowledge, experience, and reinforcement procedure",
+            "title-short": "Rethinking temporal contiguity and the judgement of causality",
+            "type": "article-journal",
+            "volume": "56"
+        },
+        {
+            "DOI": "10.1506/car.24.3.12",
+            "URL": "http://dx.doi.org/10.1506/car.24.3.12",
+            "author": [
+                {
+                    "family": "Vera-Muñoz",
+                    "given": "Sandra C"
+                },
+                {
+                    "family": "Shackell",
+                    "given": "Margaret"
+                },
+                {
+                    "family": "Buehner",
+                    "given": "Marc"
+                }
+            ],
+            "container-title": "Contemporary Accounting Research",
+            "id": "vera-muñoz2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "page": "10151038",
+            "title": "Accountants’ usage of causal business models in the presence of benchmark data: A note",
+            "title-short": "Accountants’ usage of causal business models in the presence of benchmark data",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "http://dx.doi.org/10.1016/S0361-3682(99)00045-8",
+            "URL": "http://www.sciencedirect.com/science/article/pii/S0361368299000458",
+            "author": [
+                {
+                    "family": "Ghosh",
+                    "given": "Dipankar"
+                },
+                {
+                    "family": "Lusch",
+                    "given": "Robert F"
+                }
+            ],
+            "container-title": "Accounting, Organizations and Society",
+            "id": "ghosh2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "page": "411425",
+            "title": "Outcome effect, controllability and performance evaluation of managers: Some field evidence from multi-outlet businesses",
+            "title-short": "Outcome effect, controllability and performance evaluation of managers",
+            "type": "article-journal",
+            "volume": "25"
+        },
+        {
+            "URL": "http://op.lib.kobe-u.ac.jp/opac/opac_details.cgi?lang=0&bibid=2001377320&amode=11",
+            "author": [
+                {
+                    "family": "Lev",
+                    "given": "Baruch"
+                }
+            ],
+            "id": "lev2001",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "publisher": "Brookings Institution Press",
+            "publisher-place": "Washington, D.C.",
+            "title": "Intangibles: Management, measurement, and reporting",
+            "title-short": "Intangibles",
+            "type": "book"
+        },
+        {
+            "DOI": "10.2308/acch.2009.23.3.307",
+            "URL": "http://aaajournals.org/doi/abs/10.2308/acch.2009.23.3.307",
+            "author": [
+                {
+                    "family": "Luft",
+                    "given": "Joan"
+                }
+            ],
+            "container-title": "Accounting Horizons",
+            "id": "luft2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "307325",
+            "title": "Nonfinancial information and accounting: A reconsideration of benefits and challenges",
+            "title-short": "Nonfinancial information and accounting",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1016/j.aos.2010.07.004",
+            "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0361368210000577",
+            "author": [
+                {
+                    "family": "Grafton",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Lillis",
+                    "given": "Anne M"
+                },
+                {
+                    "family": "Widener",
+                    "given": "Sally K"
+                }
+            ],
+            "container-title": "Accounting, Organizations and Society",
+            "id": "grafton2010",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "page": "689706",
+            "title": "The role of performance measurement and evaluation in building organizational capabilities and performance",
+            "type": "article-journal",
+            "volume": "35"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
